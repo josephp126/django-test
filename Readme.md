@@ -11,4 +11,4 @@ python3 manage.py runserver
 
 2. Run parallelrequest file.
 
-python3 parallelrequest.pys
+python3 parallelrequest.py
